@@ -62,20 +62,3 @@ Include special characters? (y/n): y
 Generated Password: X9#mP$2nL!kQ
 ```
 
-## Contributing
-
-Contributions are welcome to improve the generator’s functionality! To contribute:
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/add-gui`).
-3. Commit your changes (`git commit -m 'Add GUI for password generator'`).
-4. Push to the branch (`git push origin feature/add-gui`).
-5. Open a pull request with a clear description of your changes.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-
-For questions, suggestions, or bug reports, please open an issue on GitHub or contact the maintainer.
